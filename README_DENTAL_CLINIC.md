@@ -377,12 +377,10 @@ This project is created for educational purposes.
 - Data relationships and population
 
 ### Future Enhancements
-- Doctor/dentist management
 - Prescription management
 - Billing system
 - Appointment reminders (email/SMS)
 - Advanced reporting
-- Payment integration
 - Backup and export features
 
 
